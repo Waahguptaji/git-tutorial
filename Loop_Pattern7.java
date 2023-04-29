@@ -40,7 +40,7 @@ public class Loop_Pattern7 {
                     System.out.print("*");
 
                 }
-            System.out.println("Version 3");
+            System.out.println();
         }
     }
 }
