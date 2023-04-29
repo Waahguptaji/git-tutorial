@@ -16,7 +16,7 @@ public class Loop_Pattern5 {
                 System.out.print("*");
 
             }
-            System.out.println("Version 2");
+            System.out.println("Version 3");
         }
     }
 }
